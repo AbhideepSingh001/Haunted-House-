@@ -234,3 +234,5 @@ window.addEventListener('resize', () => {
     camera.updateProjectionMatrix();
     renderer.setSize(window.innerWidth, window.innerHeight);
 });
+
+// hey i am just practicing the use of git revert "mai yeha double inverted comma me likh rha hu lekin eaisa nhi likhna hota hai direct likhna hoga kya -> commit id-> yeh jo humne update kiya hai wo delete ho jayega comment me"
